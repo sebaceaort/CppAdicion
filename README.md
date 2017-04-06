@@ -32,12 +32,10 @@ Sebastian Cea
 1. Crear dos variables numericas (a y b)
 2. Solicitar el ingreso de un numero 
 3. Leer A
-
-3.1. Verificar que lo ingresado sea un numero
+3. Verificar que lo ingresado sea un numero
 4. Solicitar el ingreso de otro numero
 5. Leer B
-
-5.1 Verificar que lo ingresado sea un numero
+5. Verificar que lo ingresado sea un numero
 6. Realizar a+b
 7. Imprimir en pantalla el resultado
 
