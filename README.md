@@ -39,7 +39,7 @@ Sebastian Cea
 6. Realizar a+b
 7. Imprimir en pantalla el resultado
 
-Segun lo que pude observar en mi programa al insertar algo que no es un numero y al ser las variables declaradas como enteros el programa falla por eso agregue los puntos 3.1 y 5.1
+Segun lo que pude observar en mi programa al insertar algo que no es un numero y al ser las variables declaradas como enteros el programa falla por eso agregue los puntos 4 y 7
    
  
 
